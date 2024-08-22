@@ -2,6 +2,7 @@
 """ A method that determines if a given data set represents a valid UTF-8
 encoding"""
 
+
 def validUTF8(data):
     """Represent the method."""
     num_bytes = 0
